@@ -12,7 +12,7 @@ function App() {
         <p>
 
 
-          Редактируйте <code>src/App.js</code> и сохраните для обновления.
+          Редактируйте <code>src/App.js</code> и сохраните для обновления. test
         </p>
         <a
           className="App-link"
